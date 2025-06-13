@@ -1,0 +1,940 @@
+pet_id,date,activity_type,duration_minutes,issue,resolution,owner_id,owner_age_group,pet_type,year_month
+9539,2023-08-19,Resting,52,"","",1495,56-65,Dog,2023-08
+1370,2023-04-25,Resting,,"","",3138,18-25,Hamster,2023-04
+6609,2022-11-05,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,8044,36-45,Cat,2022-11
+4024,2023-08-11,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4004,56-65,Dog,2023-08
+9684,2023-10-25,Playing,,"","",560,18-25,Hamster,2023-10
+3767,2023-09-27,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3183,36-45,Dog,2023-09
+4539,2022-11-19,Health,0,Annual Checkup,Diet adjustment recommended for weight management,4531,18-25,Dog,2022-11
+5919,2022-07-15,Walking,,"","",8009,26-35,Fish,2022-07
+2016,2023-10-03,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6230,56-65,Dog,2023-10
+9230,2022-10-22,Health,0,Injury,"Sprain identified, rest and limited movement advised",9136,46-55,Rabbit,2022-10
+3484,2023-04-28,Health,0,Dental Cleaning,"Cleaning done, no dental issues",472,36-45,Hamster,2023-04
+6602,2023-09-18,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5361,18-25,Cat,2023-09
+6332,2022-10-24,Walking,,"","",2456,26-35,Rabbit,2022-10
+9407,2023-02-11,Resting,68,"","",9215,26-35,Hamster,2023-02
+2492,2023-07-28,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7325,46-55,Cat,2023-07
+6816,2022-09-11,Health,0,Dental Cleaning,"Cleaning done, no dental issues",5909,26-35,Fish,2022-09
+4480,2023-03-29,Resting,,"","",9044,46-55,Hamster,2023-03
+9525,2022-08-14,Health,0,Annual Checkup,"All clear, healthy diet recommended",4975,18-25,Fish,2022-08
+9539,2023-10-22,Walking,78,"","",1495,56-65,Dog,2023-10
+4452,2022-04-01,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5088,18-25,Cat,2022-04
+2837,2023-08-05,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",9708,56-65,Fish,2023-08
+2381,2023-01-11,Walking,24,"","",5366,18-25,Rabbit,2023-01
+3856,2023-02-17,Walking,30,"","",7968,66+,Hamster,2023-02
+2178,2023-05-23,Playing,40,"","",9442,36-45,Dog,2023-05
+1006,2023-06-07,Playing,47,"","",4000,18-25,Cat,2023-06
+9813,2022-07-03,Health,0,Injury,Physical therapy recommended for joint issues,7472,66+,Hamster,2022-07
+2549,2023-12-22,Health,0,Injury,Physical therapy recommended for joint issues,8612,36-45,Dog,2023-12
+8047,2023-09-21,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4593,26-35,Rabbit,2023-09
+9018,2022-04-03,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5690,46-55,Rabbit,2022-04
+9030,2023-03-17,Health,0,Annual Checkup,"All clear, healthy diet recommended",4500,18-25,Hamster,2023-03
+8705,2023-03-21,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8337,66+,Rabbit,2023-03
+2783,2023-06-25,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7419,26-35,Rabbit,2023-06
+9968,2022-10-03,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8847,56-65,Hamster,2022-10
+1060,2022-08-02,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1001,56-65,Rabbit,2022-08
+5288,2023-09-11,Health,0,Annual Checkup,Diet adjustment recommended for weight management,290,56-65,Dog,2023-09
+5699,2023-07-04,Walking,29,"","",4776,26-35,Fish,2023-07
+4438,2022-09-26,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",6845,56-65,Cat,2022-09
+5890,2022-09-28,Resting,73,"","",3438,46-55,Cat,2022-09
+6897,2023-10-02,Health,0,Annual Checkup,"All clear, healthy diet recommended",9232,36-45,Cat,2023-10
+9357,2022-04-27,Walking,54,"","",4945,56-65,Rabbit,2022-04
+1417,2023-05-30,Walking,3,"","",1834,46-55,Rabbit,2023-05
+9187,2022-08-17,Health,0,Injury,Physical therapy recommended for joint issues,8368,66+,Rabbit,2022-08
+1956,2023-09-24,Health,0,Dental Cleaning,"Cleaning done, no dental issues",2818,56-65,Rabbit,2023-09
+8510,2022-06-02,Health,0,Injury,"Sprain identified, rest and limited movement advised",2392,18-25,Cat,2022-06
+9472,2022-05-10,Playing,35,"","",4878,46-55,Cat,2022-05
+3300,2023-03-10,Playing,62,"","",264,66+,Hamster,2023-03
+4726,2023-07-26,Health,0,Annual Checkup,"All clear, healthy diet recommended",1578,66+,Rabbit,2023-07
+6896,2022-08-19,Resting,,"","",7961,56-65,Dog,2022-08
+5563,2023-12-21,Playing,47,"","",4091,36-45,Rabbit,2023-12
+4777,2022-07-06,Resting,40,"","",2269,36-45,Rabbit,2022-07
+1888,2023-12-02,Playing,53,"","",360,36-45,Fish,2023-12
+5445,2023-08-20,Resting,22,"","",8793,56-65,Hamster,2023-08
+4073,2022-12-20,Playing,85,"","",5668,46-55,Hamster,2022-12
+8940,2022-05-23,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6792,66+,Fish,2022-05
+3291,2023-04-06,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9548,56-65,Fish,2023-04
+2016,2023-12-06,Playing,73,"","",6230,56-65,Dog,2023-12
+8631,2023-11-11,Walking,,"","",1052,66+,Hamster,2023-11
+6851,2023-02-16,Resting,16,"","",4043,56-65,Dog,2023-02
+1207,2023-09-23,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7087,26-35,Rabbit,2023-09
+637,2023-10-26,Playing,,"","",6918,56-65,Cat,2023-10
+2060,2022-12-19,Playing,,"","",9346,46-55,Hamster,2022-12
+1370,2022-08-06,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3138,18-25,Hamster,2022-08
+8177,2023-08-14,Health,0,Injury,"Sprain identified, rest and limited movement advised",8251,18-25,Dog,2023-08
+8285,2022-08-01,Walking,32,"","",4725,18-25,Dog,2022-08
+4934,2022-12-28,Resting,28,"","",8159,46-55,Cat,2022-12
+8940,2022-11-28,Resting,36,"","",6792,66+,Fish,2022-11
+5243,2023-07-03,Health,0,Annual Checkup,"All clear, healthy diet recommended",3974,46-55,Cat,2023-07
+1001,2023-03-25,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4166,46-55,Dog,2023-03
+6121,2023-11-16,Health,0,Annual Checkup,"All clear, healthy diet recommended",9603,66+,Fish,2023-11
+217,2023-05-20,Health,0,Annual Checkup,"All clear, healthy diet recommended",9887,26-35,Dog,2023-05
+1993,2022-05-04,Playing,78,"","",1558,66+,Hamster,2022-05
+8412,2022-04-04,Resting,38,"","",4116,18-25,Hamster,2022-04
+9684,2023-01-11,Walking,38,"","",560,18-25,Hamster,2023-01
+3784,2023-08-12,Playing,,"","",6405,46-55,Fish,2023-08
+248,2022-07-20,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7635,66+,Dog,2022-07
+6556,2022-04-06,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1107,56-65,Dog,2022-04
+2794,2023-04-11,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9306,66+,Dog,2023-04
+427,2022-11-08,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6043,66+,Rabbit,2022-11
+8691,2022-11-16,Health,0,Dental Cleaning,"Cleaning done, no dental issues",3447,26-35,Fish,2022-11
+9472,2022-09-23,Health,0,Annual Checkup,"All clear, healthy diet recommended",4878,46-55,Cat,2022-09
+6172,2023-04-04,Playing,71,"","",6541,18-25,Hamster,2023-04
+8177,2022-04-02,Walking,51,"","",8251,18-25,Dog,2022-04
+6338,2022-04-17,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4094,46-55,Fish,2022-04
+3228,2023-07-30,Health,0,Injury,Physical therapy recommended for joint issues,8432,66+,Fish,2023-07
+3946,2023-09-02,Walking,10,"","",1722,66+,Cat,2023-09
+3885,2022-09-11,Walking,,"","",3080,56-65,Cat,2022-09
+6087,2023-01-27,Health,0,Dental Cleaning,"Cleaning done, no dental issues",3196,26-35,Hamster,2023-01
+751,2023-09-26,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7703,46-55,Fish,2023-09
+5747,2023-03-19,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8562,36-45,Dog,2023-03
+2415,2022-04-23,Walking,83,"","",359,46-55,Rabbit,2022-04
+6934,2023-12-03,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7906,26-35,Cat,2023-12
+3530,2023-08-27,Playing,49,"","",8942,36-45,Hamster,2023-08
+8840,2022-10-24,Playing,39,"","",3588,18-25,Fish,2022-10
+5789,2023-06-17,Playing,29,"","",885,26-35,Hamster,2023-06
+4834,2023-11-10,Health,0,Injury,"Sprain identified, rest and limited movement advised",5367,26-35,Dog,2023-11
+9,2023-12-01,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1451,46-55,Hamster,2023-12
+5288,2022-05-23,Health,0,Dental Cleaning,"Cleaning done, no dental issues",290,56-65,Dog,2022-05
+2735,2023-03-18,Health,0,Annual Checkup,"All clear, healthy diet recommended",2607,66+,Hamster,2023-03
+5958,2022-06-22,Health,0,Annual Checkup,"All clear, healthy diet recommended",5210,36-45,Fish,2022-06
+7716,2023-06-30,Health,0,Injury,"Minor surgery performed, recovery monitored",342,66+,Cat,2023-06
+6778,2023-08-25,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7271,36-45,Cat,2023-08
+6689,2023-12-11,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6660,66+,Fish,2023-12
+6241,2022-05-18,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3636,18-25,Hamster,2022-05
+5288,2023-10-27,Resting,41,"","",290,56-65,Dog,2023-10
+7172,2023-06-14,Playing,12,"","",5185,18-25,Rabbit,2023-06
+4480,2023-02-11,Playing,,"","",9044,46-55,Hamster,2023-02
+9379,2022-06-28,Playing,,"","",1903,46-55,Fish,2022-06
+5404,2022-11-14,Walking,19,"","",2402,36-45,Rabbit,2022-11
+7891,2023-02-28,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",6780,56-65,Dog,2023-02
+2869,2022-04-04,Walking,,"","",4983,36-45,Cat,2022-04
+6838,2023-05-07,Playing,79,"","",487,36-45,Rabbit,2023-05
+2840,2023-12-03,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,8267,46-55,Fish,2023-12
+9769,2023-06-25,Playing,85,"","",659,46-55,Hamster,2023-06
+9968,2023-04-30,Health,0,Annual Checkup,"All clear, healthy diet recommended",8847,56-65,Hamster,2023-04
+9271,2023-11-01,Resting,58,"","",6469,56-65,Rabbit,2023-11
+3147,2022-11-22,Resting,69,"","",1961,18-25,Dog,2022-11
+5975,2022-08-12,Resting,77,"","",5818,18-25,Cat,2022-08
+3300,2022-09-09,Health,0,Dental Cleaning,"Cleaning done, no dental issues",264,66+,Hamster,2022-09
+6089,2022-09-01,Walking,88,"","",4702,18-25,Fish,2022-09
+3988,2022-06-17,Walking,,"","",9242,56-65,Cat,2022-06
+8387,2022-10-29,Playing,,"","",160,36-45,Cat,2022-10
+5501,2022-12-12,Playing,4,"","",7969,26-35,Rabbit,2022-12
+7970,2022-07-19,Walking,29,"","",1419,36-45,Hamster,2022-07
+9555,2022-05-10,Resting,55,"","",8413,26-35,Hamster,2022-05
+6332,2022-06-22,Resting,84,"","",2456,26-35,Rabbit,2022-06
+4238,2023-10-19,Resting,13,"","",7739,56-65,Cat,2023-10
+8103,2022-08-19,Resting,8,"","",1336,26-35,Fish,2022-08
+1207,2022-07-07,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7087,26-35,Rabbit,2022-07
+9186,2022-10-23,Health,0,Annual Checkup,Diet adjustment recommended for weight management,948,66+,Rabbit,2022-10
+3828,2022-06-11,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7877,46-55,Fish,2022-06
+4584,2022-04-17,Playing,,"","",9686,36-45,Hamster,2022-04
+7022,2023-09-03,Playing,23,"","",7165,56-65,Dog,2023-09
+4899,2022-07-26,Health,0,Injury,"Minor surgery performed, recovery monitored",6601,56-65,Dog,2022-07
+7416,2023-01-27,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8590,18-25,Hamster,2023-01
+1949,2023-02-14,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8827,46-55,Rabbit,2023-02
+9659,2023-08-12,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,5015,18-25,Dog,2023-08
+7716,2023-10-17,Playing,90,"","",342,66+,Cat,2023-10
+9356,2022-06-22,Resting,14,"","",6362,18-25,Hamster,2022-06
+7788,2022-11-12,Resting,,"","",7350,36-45,Dog,2022-11
+5890,2022-09-18,Health,0,Injury,"Minor surgery performed, recovery monitored",3438,46-55,Cat,2022-09
+1366,2023-07-14,Walking,,"","",818,56-65,Dog,2023-07
+6467,2023-03-02,Walking,79,"","",7672,26-35,Fish,2023-03
+9186,2022-05-15,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,948,66+,Rabbit,2022-05
+1963,2023-10-08,Health,0,Annual Checkup,"All clear, healthy diet recommended",3173,66+,Dog,2023-10
+4853,2023-03-02,Playing,89,"","",3162,56-65,Dog,2023-03
+9721,2022-12-24,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4991,26-35,Rabbit,2022-12
+7010,2023-09-26,Walking,,"","",6873,36-45,Fish,2023-09
+5940,2023-06-28,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7893,56-65,Fish,2023-06
+4584,2023-07-04,Health,0,Annual Checkup,"All clear, healthy diet recommended",9686,36-45,Hamster,2023-07
+9712,2023-12-06,Health,0,Dental Cleaning,"Cleaning done, no dental issues",3539,36-45,Cat,2023-12
+7785,2022-09-22,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1955,26-35,Rabbit,2022-09
+658,2023-06-06,Playing,4,"","",6072,18-25,Dog,2023-06
+454,2022-08-08,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7985,26-35,Fish,2022-08
+239,2023-10-15,Playing,,"","",1625,36-45,Fish,2023-10
+8047,2023-08-09,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4593,26-35,Rabbit,2023-08
+6087,2023-05-02,Playing,19,"","",3196,26-35,Hamster,2023-05
+5406,2022-11-02,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9906,66+,Fish,2022-11
+5863,2023-12-13,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,6864,36-45,Dog,2023-12
+7785,2023-07-25,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,1955,26-35,Rabbit,2023-07
+2448,2022-10-13,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5266,26-35,Hamster,2022-10
+9357,2023-11-20,Walking,46,"","",4945,56-65,Rabbit,2023-11
+2342,2023-01-25,Resting,33,"","",4929,66+,Hamster,2023-01
+8981,2023-03-27,Health,0,Annual Checkup,Diet adjustment recommended for weight management,2804,18-25,Rabbit,2023-03
+5414,2023-06-05,Health,0,Injury,"Sprain identified, rest and limited movement advised",9435,26-35,Dog,2023-06
+1585,2023-08-07,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4135,18-25,Fish,2023-08
+6102,2023-11-16,Health,0,Annual Checkup,Diet adjustment recommended for weight management,1403,46-55,Hamster,2023-11
+6121,2022-11-23,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",9603,66+,Fish,2022-11
+4073,2023-09-26,Resting,71,"","",5668,46-55,Hamster,2023-09
+9419,2022-10-11,Playing,13,"","",4101,36-45,Hamster,2022-10
+3220,2022-05-17,Walking,84,"","",2733,26-35,Fish,2022-05
+6919,2023-06-11,Walking,1,"","",499,36-45,Hamster,2023-06
+7485,2022-06-09,Walking,47,"","",6278,56-65,Dog,2022-06
+1901,2022-09-12,Health,0,Annual Checkup,"All clear, healthy diet recommended",8648,56-65,Cat,2022-09
+782,2023-09-24,Playing,66,"","",3884,26-35,Cat,2023-09
+6534,2023-04-16,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",2761,26-35,Cat,2023-04
+6409,2023-04-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",2533,26-35,Fish,2023-04
+2415,2022-11-14,Health,0,Annual Checkup,Diet adjustment recommended for weight management,359,46-55,Rabbit,2022-11
+538,2023-05-18,Resting,71,"","",5293,46-55,Fish,2023-05
+4777,2022-08-14,Health,0,Dental Cleaning,"Cleaning done, no dental issues",2269,36-45,Rabbit,2022-08
+9445,2023-07-01,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3664,18-25,Dog,2023-07
+7296,2023-02-25,Resting,6,"","",4562,26-35,Dog,2023-02
+2783,2022-11-06,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7419,26-35,Rabbit,2022-11
+3830,2022-04-11,Playing,40,"","",4465,46-55,Dog,2022-04
+5747,2023-10-05,Walking,48,"","",8562,36-45,Dog,2023-10
+2178,2023-08-01,Resting,,"","",9442,36-45,Dog,2023-08
+6901,2022-04-18,Resting,20,"","",5150,46-55,Dog,2022-04
+1382,2023-10-26,Resting,23,"","",7965,36-45,Dog,2023-10
+1207,2023-07-30,Playing,,"","",7087,26-35,Rabbit,2023-07
+3147,2023-12-15,Walking,60,"","",1961,18-25,Dog,2023-12
+9271,2023-07-22,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6469,56-65,Rabbit,2023-07
+5987,2022-08-20,Walking,25,"","",4121,66+,Hamster,2022-08
+7833,2022-04-28,Health,0,Injury,Physical therapy recommended for joint issues,3276,46-55,Fish,2022-04
+5503,2022-12-01,Playing,,"","",1269,46-55,Cat,2022-12
+2060,2022-09-13,Resting,69,"","",9346,46-55,Hamster,2022-09
+3723,2022-08-02,Health,0,Injury,"Minor surgery performed, recovery monitored",480,56-65,Dog,2022-08
+7788,2023-04-06,Walking,34,"","",7350,36-45,Dog,2023-04
+1956,2023-11-16,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",2818,56-65,Rabbit,2023-11
+542,2023-03-28,Playing,62,"","",6776,18-25,Hamster,2023-03
+9581,2023-02-11,Walking,65,"","",6128,66+,Rabbit,2023-02
+5017,2023-06-17,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,7785,36-45,Cat,2023-06
+8586,2023-01-19,Playing,34,"","",9364,66+,Hamster,2023-01
+2178,2023-12-28,Health,0,Injury,"Minor surgery performed, recovery monitored",9442,36-45,Dog,2023-12
+7416,2023-08-20,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8590,18-25,Hamster,2023-08
+7485,2022-08-11,Health,0,Annual Checkup,"All clear, healthy diet recommended",6278,56-65,Dog,2022-08
+9558,2022-06-15,Health,0,Injury,Physical therapy recommended for joint issues,258,46-55,Rabbit,2022-06
+5090,2023-01-03,Health,0,Injury,"Sprain identified, rest and limited movement advised",6530,26-35,Hamster,2023-01
+7352,2023-12-07,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7816,56-65,Hamster,2023-12
+1366,2022-12-03,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,818,56-65,Dog,2022-12
+4001,2023-04-12,Resting,32,"","",9753,46-55,Hamster,2023-04
+637,2022-10-12,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",6918,56-65,Cat,2022-10
+4777,2023-07-22,Walking,,"","",2269,36-45,Rabbit,2023-07
+8631,2022-04-28,Resting,,"","",1052,66+,Hamster,2022-04
+9930,2023-08-01,Resting,,"","",7016,18-25,Dog,2023-08
+2060,2022-12-06,Walking,61,"","",9346,46-55,Hamster,2022-12
+1297,2022-09-03,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",576,26-35,Fish,2022-09
+9695,2023-05-14,Playing,31,"","",6402,66+,Fish,2023-05
+6689,2022-12-27,Playing,62,"","",6660,66+,Fish,2022-12
+3856,2023-10-29,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7968,66+,Hamster,2023-10
+8676,2022-10-13,Health,0,Injury,"Sprain identified, rest and limited movement advised",3252,18-25,Fish,2022-10
+5863,2023-06-25,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,6864,36-45,Dog,2023-06
+8989,2023-02-06,Playing,77,"","",3803,36-45,Dog,2023-02
+2735,2022-07-14,Resting,,"","",2607,66+,Hamster,2022-07
+5643,2023-05-31,Walking,76,"","",3428,56-65,Rabbit,2023-05
+5457,2022-11-23,Health,0,Injury,"Sprain identified, rest and limited movement advised",9437,18-25,Fish,2022-11
+5406,2023-08-29,Walking,6,"","",9906,66+,Fish,2023-08
+3420,2023-05-10,Health,0,Injury,Physical therapy recommended for joint issues,7822,66+,Fish,2023-05
+4346,2023-03-25,Health,0,Annual Checkup,"All clear, healthy diet recommended",9867,46-55,Fish,2023-03
+209,2023-11-15,Walking,61,"","",9137,56-65,Fish,2023-11
+1239,2023-09-21,Playing,5,"","",785,36-45,Fish,2023-09
+5501,2023-04-29,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7969,26-35,Rabbit,2023-04
+9581,2022-04-13,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6128,66+,Rabbit,2022-04
+9539,2023-09-06,Playing,49,"","",1495,56-65,Dog,2023-09
+3821,2023-05-14,Resting,73,"","",9842,26-35,Hamster,2023-05
+8840,2023-07-05,Playing,,"","",3588,18-25,Fish,2023-07
+3057,2023-08-10,Health,0,Annual Checkup,Diet adjustment recommended for weight management,2385,26-35,Hamster,2023-08
+4307,2022-04-17,Health,0,Dental Cleaning,"Cleaning done, no dental issues",2654,56-65,Hamster,2022-04
+7113,2022-06-03,Health,0,Annual Checkup,"All clear, healthy diet recommended",8490,36-45,Rabbit,2022-06
+4834,2023-05-12,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5367,26-35,Dog,2023-05
+6556,2023-09-03,Health,0,Injury,"Minor surgery performed, recovery monitored",1107,56-65,Dog,2023-09
+9561,2023-10-29,Walking,1,"","",4850,66+,Fish,2023-10
+9357,2022-11-21,Resting,11,"","",4945,56-65,Rabbit,2022-11
+309,2022-08-06,Resting,37,"","",4240,66+,Rabbit,2022-08
+7956,2023-06-26,Walking,27,"","",725,66+,Hamster,2023-06
+9618,2023-08-11,Resting,,"","",4482,18-25,Fish,2023-08
+751,2022-10-16,Playing,29,"","",7703,46-55,Fish,2022-10
+1939,2023-01-19,Health,0,Annual Checkup,Diet adjustment recommended for weight management,8319,26-35,Cat,2023-01
+2882,2022-09-13,Playing,66,"","",6343,56-65,Dog,2022-09
+5863,2023-04-19,Playing,,"","",6864,36-45,Dog,2023-04
+3828,2023-07-18,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,7877,46-55,Fish,2023-07
+2805,2022-05-28,Health,0,Injury,"Sprain identified, rest and limited movement advised",6327,36-45,Rabbit,2022-05
+2794,2022-09-01,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9306,66+,Dog,2022-09
+9581,2023-11-20,Health,0,Annual Checkup,"All clear, healthy diet recommended",6128,66+,Rabbit,2023-11
+1735,2023-09-23,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,8142,56-65,Fish,2023-09
+1441,2022-12-02,Resting,,"","",8360,18-25,Hamster,2022-12
+2058,2023-08-29,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4954,36-45,Fish,2023-08
+1297,2023-11-04,Playing,64,"","",576,26-35,Fish,2023-11
+6518,2023-09-22,Health,0,Injury,"Sprain identified, rest and limited movement advised",12,46-55,Dog,2023-09
+2590,2023-01-13,Health,0,Injury,"Minor surgery performed, recovery monitored",1365,26-35,Dog,2023-01
+7281,2022-07-10,Walking,20,"","",3985,18-25,Fish,2022-07
+9988,2022-11-07,Playing,73,"","",5933,56-65,Rabbit,2022-11
+2415,2022-10-28,Playing,68,"","",359,46-55,Rabbit,2022-10
+3530,2023-03-01,Health,0,Annual Checkup,"All clear, healthy diet recommended",8942,36-45,Hamster,2023-03
+9319,2023-09-09,Resting,82,"","",4311,36-45,Hamster,2023-09
+2729,2023-09-04,Playing,50,"","",26,46-55,Rabbit,2023-09
+4307,2023-10-16,Health,0,Injury,"Sprain identified, rest and limited movement advised",2654,56-65,Hamster,2023-10
+1006,2023-05-16,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4000,18-25,Cat,2023-05
+9271,2023-10-27,Resting,80,"","",6469,56-65,Rabbit,2023-10
+9236,2022-04-27,Health,0,Injury,Physical therapy recommended for joint issues,6204,66+,Fish,2022-04
+5421,2022-09-19,Playing,,"","",4457,26-35,Rabbit,2022-09
+4584,2023-12-03,Walking,73,"","",9686,36-45,Hamster,2023-12
+4778,2023-05-13,Health,0,Annual Checkup,"All clear, healthy diet recommended",477,56-65,Cat,2023-05
+1956,2023-09-01,Health,0,Annual Checkup,"All clear, healthy diet recommended",2818,56-65,Rabbit,2023-09
+5747,2023-07-10,Resting,50,"","",8562,36-45,Dog,2023-07
+9230,2022-07-18,Resting,43,"","",9136,46-55,Rabbit,2022-07
+5925,2023-11-03,Walking,74,"","",8475,56-65,Hamster,2023-11
+9,2023-08-02,Health,0,Injury,"Sprain identified, rest and limited movement advised",1451,46-55,Hamster,2023-08
+1370,2022-10-11,Resting,72,"","",3138,18-25,Hamster,2022-10
+7022,2023-06-26,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7165,56-65,Dog,2023-06
+3884,2023-06-26,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6355,66+,Rabbit,2023-06
+8572,2023-07-21,Playing,4,"","",496,66+,Rabbit,2023-07
+5691,2023-02-24,Walking,32,"","",5039,66+,Dog,2023-02
+1939,2023-12-24,Health,0,Injury,"Sprain identified, rest and limited movement advised",8319,26-35,Cat,2023-12
+9561,2022-11-10,Health,0,Annual Checkup,Diet adjustment recommended for weight management,4850,66+,Fish,2022-11
+7482,2023-02-14,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7022,26-35,Rabbit,2023-02
+9539,2023-10-13,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1495,56-65,Dog,2023-10
+8047,2023-06-21,Health,0,Annual Checkup,Diet adjustment recommended for weight management,4593,26-35,Rabbit,2023-06
+5610,2022-10-21,Health,0,Annual Checkup,"All clear, healthy diet recommended",9186,36-45,Fish,2022-10
+4410,2022-11-18,Playing,6,"","",4424,56-65,Cat,2022-11
+5984,2022-11-19,Playing,45,"","",2527,18-25,Fish,2022-11
+2218,2022-06-03,Health,0,Annual Checkup,Diet adjustment recommended for weight management,2099,46-55,Rabbit,2022-06
+3370,2023-06-20,Health,0,Dental Cleaning,"Cleaning done, no dental issues",13,66+,Hamster,2023-06
+8705,2023-06-15,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8337,66+,Rabbit,2023-06
+5421,2022-04-17,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4457,26-35,Rabbit,2022-04
+1261,2023-11-08,Playing,,"","",683,46-55,Dog,2023-11
+3484,2023-10-07,Playing,64,"","",472,36-45,Hamster,2023-10
+3410,2022-07-04,Playing,10,"","",153,66+,Dog,2022-07
+5404,2022-11-15,Walking,,"","",2402,36-45,Rabbit,2022-11
+7833,2023-11-22,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3276,46-55,Fish,2023-11
+7956,2022-12-06,Health,0,Annual Checkup,"All clear, healthy diet recommended",725,66+,Hamster,2022-12
+9305,2022-05-19,Walking,,"","",4495,18-25,Dog,2022-05
+6683,2023-07-07,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,8303,66+,Cat,2023-07
+4934,2023-08-17,Playing,38,"","",8159,46-55,Cat,2023-08
+4747,2022-05-02,Health,0,Injury,Physical therapy recommended for joint issues,4090,18-25,Hamster,2022-05
+1640,2023-08-05,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7642,36-45,Hamster,2023-08
+8455,2023-11-01,Playing,10,"","",8397,18-25,Rabbit,2023-11
+9930,2023-03-16,Resting,34,"","",7016,18-25,Dog,2023-03
+7482,2023-01-21,Walking,90,"","",7022,26-35,Rabbit,2023-01
+4098,2022-05-15,Walking,22,"","",2969,66+,Rabbit,2022-05
+6075,2023-06-09,Resting,11,"","",655,26-35,Fish,2023-06
+7022,2022-07-15,Walking,32,"","",7165,56-65,Dog,2022-07
+4768,2023-04-18,Health,0,Annual Checkup,"All clear, healthy diet recommended",254,56-65,Dog,2023-04
+8805,2023-05-25,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4944,46-55,Hamster,2023-05
+6102,2023-09-16,Playing,14,"","",1403,46-55,Hamster,2023-09
+2299,2022-06-23,Playing,27,"","",1559,18-25,Hamster,2022-06
+6376,2023-09-23,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1407,56-65,Rabbit,2023-09
+2299,2023-06-20,Resting,13,"","",1559,18-25,Hamster,2023-06
+3686,2023-07-05,Health,0,Dental Cleaning,"Cleaning done, no dental issues",2979,26-35,Rabbit,2023-07
+6103,2022-09-05,Resting,29,"","",3723,66+,Rabbit,2022-09
+6121,2022-05-31,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9603,66+,Fish,2022-05
+9692,2023-12-03,Walking,75,"","",7009,46-55,Cat,2023-12
+6725,2022-07-02,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5568,56-65,Dog,2022-07
+4192,2023-01-04,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8706,56-65,Rabbit,2023-01
+1585,2023-12-20,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4135,18-25,Fish,2023-12
+8903,2022-08-13,Resting,41,"","",4754,66+,Fish,2022-08
+833,2023-12-05,Resting,73,"","",7440,66+,Fish,2023-12
+5919,2022-05-28,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8009,26-35,Fish,2022-05
+6480,2023-09-26,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,6899,66+,Dog,2023-09
+1322,2023-04-17,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1748,66+,Fish,2023-04
+1261,2022-08-29,Walking,21,"","",683,46-55,Dog,2022-08
+9874,2023-08-27,Playing,40,"","",2966,46-55,Fish,2023-08
+9018,2023-02-09,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5690,46-55,Rabbit,2023-02
+6315,2023-05-05,Health,0,Injury,"Minor surgery performed, recovery monitored",7039,56-65,Dog,2023-05
+1297,2023-02-11,Playing,51,"","",576,26-35,Fish,2023-02
+5418,2023-10-17,Health,0,Annual Checkup,"All clear, healthy diet recommended",8149,18-25,Dog,2023-10
+1382,2022-08-24,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7965,36-45,Dog,2022-08
+2869,2023-06-24,Health,0,Injury,Physical therapy recommended for joint issues,4983,36-45,Cat,2023-06
+2549,2022-04-17,Walking,51,"","",8612,36-45,Dog,2022-04
+4768,2023-10-30,Health,0,Dental Cleaning,"Cleaning done, no dental issues",254,56-65,Dog,2023-10
+8387,2022-07-09,Health,0,Dental Cleaning,"Cleaning done, no dental issues",160,36-45,Cat,2022-07
+9191,2023-10-25,Health,0,Annual Checkup,"All clear, healthy diet recommended",2639,66+,Hamster,2023-10
+8518,2022-04-05,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",1912,26-35,Rabbit,2022-04
+5421,2023-11-06,Resting,54,"","",4457,26-35,Rabbit,2023-11
+5445,2023-01-18,Resting,46,"","",8793,56-65,Hamster,2023-01
+2869,2023-09-04,Resting,30,"","",4983,36-45,Cat,2023-09
+5968,2022-04-25,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,3794,46-55,Fish,2022-04
+1204,2022-10-31,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3070,18-25,Cat,2022-10
+4912,2022-10-31,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3425,66+,Dog,2022-10
+5395,2023-05-13,Resting,5,"","",8924,26-35,Fish,2023-05
+5008,2022-06-07,Health,0,Annual Checkup,"All clear, healthy diet recommended",4697,66+,Dog,2022-06
+9472,2023-11-12,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4878,46-55,Cat,2023-11
+5699,2022-10-13,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4776,26-35,Fish,2022-10
+2342,2022-06-18,Health,0,Annual Checkup,"All clear, healthy diet recommended",4929,66+,Hamster,2022-06
+4747,2023-02-19,Health,0,Annual Checkup,"All clear, healthy diet recommended",4090,18-25,Hamster,2023-02
+9539,2023-10-11,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",1495,56-65,Dog,2023-10
+5610,2022-09-04,Resting,,"","",9186,36-45,Fish,2022-09
+1417,2022-06-26,Health,0,Injury,"Minor surgery performed, recovery monitored",1834,46-55,Rabbit,2022-06
+1888,2022-11-11,Health,0,Annual Checkup,"All clear, healthy diet recommended",360,36-45,Fish,2022-11
+503,2023-07-13,Health,0,Annual Checkup,"All clear, healthy diet recommended",6083,66+,Fish,2023-07
+4947,2023-05-14,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9337,56-65,Rabbit,2023-05
+3530,2023-11-28,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8942,36-45,Hamster,2023-11
+5421,2023-09-15,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4457,26-35,Rabbit,2023-09
+2888,2022-08-05,Playing,64,"","",187,36-45,Rabbit,2022-08
+7936,2023-09-20,Health,0,Injury,"Minor surgery performed, recovery monitored",3641,36-45,Fish,2023-09
+5890,2022-05-16,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3438,46-55,Cat,2022-05
+7296,2023-08-13,Playing,88,"","",4562,26-35,Dog,2023-08
+8691,2022-11-11,Health,0,Annual Checkup,"All clear, healthy diet recommended",3447,26-35,Fish,2022-11
+5643,2023-04-28,Playing,,"","",3428,56-65,Rabbit,2023-04
+2144,2023-04-03,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6471,46-55,Fish,2023-04
+9692,2022-06-07,Resting,70,"","",7009,46-55,Cat,2022-06
+2747,2023-11-07,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9401,26-35,Hamster,2023-11
+2590,2022-04-22,Health,0,Annual Checkup,"All clear, healthy diet recommended",1365,26-35,Dog,2022-04
+9322,2023-02-10,Walking,75,"","",5633,26-35,Fish,2023-02
+2471,2022-09-20,Walking,19,"","",7098,46-55,Dog,2022-09
+9930,2023-03-31,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7016,18-25,Dog,2023-03
+6729,2023-11-28,Resting,36,"","",980,46-55,Hamster,2023-11
+3224,2023-06-04,Walking,82,"","",5059,36-45,Cat,2023-06
+7515,2023-10-16,Health,0,Injury,Physical therapy recommended for joint issues,7330,18-25,Rabbit,2023-10
+986,2023-08-12,Health,0,Dental Cleaning,"Cleaning done, no dental issues",5102,18-25,Hamster,2023-08
+1292,2023-05-30,Health,0,Dental Cleaning,"Cleaning done, no dental issues",5397,18-25,Dog,2023-05
+4074,2022-09-04,Health,0,Annual Checkup,"All clear, healthy diet recommended",2224,36-45,Cat,2022-09
+5445,2022-10-14,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,8793,56-65,Hamster,2022-10
+3767,2023-01-04,Playing,70,"","",3183,36-45,Dog,2023-01
+9900,2022-08-26,Health,0,Annual Checkup,"All clear, healthy diet recommended",1102,36-45,Dog,2022-08
+9230,2022-12-13,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9136,46-55,Rabbit,2022-12
+6331,2022-07-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4304,46-55,Hamster,2022-07
+9218,2023-11-24,Health,0,Dental Cleaning,"Cleaning done, no dental issues",2552,26-35,Fish,2023-11
+9230,2023-07-12,Walking,,"","",9136,46-55,Rabbit,2023-07
+8237,2023-11-16,Health,0,Dental Cleaning,"Cleaning done, no dental issues",200,66+,Fish,2023-11
+2547,2023-07-04,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3009,36-45,Hamster,2023-07
+658,2022-07-04,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6072,18-25,Dog,2022-07
+9191,2022-04-14,Walking,43,"","",2639,66+,Hamster,2022-04
+4768,2023-05-19,Health,0,Annual Checkup,Diet adjustment recommended for weight management,254,56-65,Dog,2023-05
+5336,2023-04-20,Playing,,"","",6281,46-55,Cat,2023-04
+4937,2023-10-20,Playing,40,"","",9579,26-35,Hamster,2023-10
+5975,2022-11-05,Resting,4,"","",5818,18-25,Cat,2022-11
+473,2022-11-05,Walking,53,"","",1387,56-65,Hamster,2022-11
+1239,2023-10-09,Resting,4,"","",785,36-45,Fish,2023-10
+3856,2023-09-25,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,7968,66+,Hamster,2023-09
+8226,2023-08-22,Walking,56,"","",2391,56-65,Rabbit,2023-08
+9539,2023-02-03,Resting,41,"","",1495,56-65,Dog,2023-02
+7956,2023-03-05,Health,0,Dental Cleaning,"Cleaning done, no dental issues",725,66+,Hamster,2023-03
+4592,2023-10-06,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4293,46-55,Hamster,2023-10
+1441,2023-06-07,Playing,14,"","",8360,18-25,Hamster,2023-06
+9223,2023-05-20,Playing,16,"","",8116,56-65,Cat,2023-05
+2755,2023-01-24,Health,0,Annual Checkup,"All clear, healthy diet recommended",310,18-25,Rabbit,2023-01
+3695,2023-10-23,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",6294,56-65,Fish,2023-10
+4060,2022-08-21,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3887,36-45,Fish,2022-08
+121,2022-10-24,Health,0,Annual Checkup,"All clear, healthy diet recommended",3596,18-25,Rabbit,2022-10
+556,2023-02-28,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3870,26-35,Fish,2023-02
+5243,2022-11-22,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3974,46-55,Cat,2022-11
+7190,2022-12-13,Walking,,"","",2160,36-45,Hamster,2022-12
+1207,2022-07-27,Resting,22,"","",7087,26-35,Rabbit,2022-07
+6824,2022-11-28,Walking,78,"","",922,56-65,Cat,2022-11
+3884,2023-04-25,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6355,66+,Rabbit,2023-04
+9419,2022-10-03,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4101,36-45,Hamster,2022-10
+3410,2022-11-25,Walking,,"","",153,66+,Dog,2022-11
+1906,2022-11-25,Resting,2,"","",4680,18-25,Rabbit,2022-11
+2016,2023-03-02,Health,0,Injury,Physical therapy recommended for joint issues,6230,56-65,Dog,2023-03
+1366,2023-10-08,Health,0,Injury,"Minor surgery performed, recovery monitored",818,56-65,Dog,2023-10
+4307,2022-09-26,Playing,67,"","",2654,56-65,Hamster,2022-09
+6205,2023-09-16,Walking,19,"","",1937,56-65,Rabbit,2023-09
+1216,2022-08-08,Resting,,"","",8775,26-35,Fish,2022-08
+7281,2023-12-09,Resting,38,"","",3985,18-25,Fish,2023-12
+4853,2023-03-04,Resting,,"","",3162,56-65,Dog,2023-03
+2901,2022-07-17,Health,0,Injury,"Sprain identified, rest and limited movement advised",7351,46-55,Dog,2022-07
+2287,2022-06-09,Resting,,"","",7057,66+,Rabbit,2022-06
+3936,2022-09-15,Walking,73,"","",7063,26-35,Hamster,2022-09
+5037,2023-01-20,Health,0,Dental Cleaning,"Cleaning done, no dental issues",119,26-35,Fish,2023-01
+1678,2023-09-01,Health,0,Injury,"Sprain identified, rest and limited movement advised",1146,36-45,Dog,2023-09
+2235,2022-12-08,Playing,35,"","",1811,26-35,Cat,2022-12
+8877,2023-02-13,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9853,36-45,Cat,2023-02
+1888,2023-02-28,Walking,16,"","",360,36-45,Fish,2023-02
+9018,2022-11-30,Playing,55,"","",5690,46-55,Rabbit,2022-11
+6331,2023-07-22,Health,0,Injury,"Sprain identified, rest and limited movement advised",4304,46-55,Hamster,2023-07
+9452,2022-05-24,Playing,5,"","",4154,18-25,Rabbit,2022-05
+8237,2023-11-14,Walking,43,"","",200,66+,Fish,2023-11
+3988,2022-04-23,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9242,56-65,Cat,2022-04
+9900,2022-10-30,Walking,82,"","",1102,36-45,Dog,2022-10
+8237,2023-10-09,Resting,89,"","",200,66+,Fish,2023-10
+2287,2023-07-16,Playing,5,"","",7057,66+,Rabbit,2023-07
+1334,2022-04-30,Health,0,Annual Checkup,"All clear, healthy diet recommended",9632,26-35,Dog,2022-04
+4238,2023-07-20,Resting,56,"","",7739,56-65,Cat,2023-07
+2733,2022-05-20,Walking,70,"","",2443,56-65,Rabbit,2022-05
+2729,2022-09-24,Health,0,Dental Cleaning,"Cleaning done, no dental issues",26,46-55,Rabbit,2022-09
+2888,2023-11-09,Resting,52,"","",187,36-45,Rabbit,2023-11
+5578,2023-06-20,Health,0,Dental Cleaning,"Cleaning done, no dental issues",5887,18-25,Cat,2023-06
+2882,2022-09-07,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6343,56-65,Dog,2022-09
+8136,2023-10-03,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",1972,18-25,Dog,2023-10
+2415,2022-11-23,Playing,63,"","",359,46-55,Rabbit,2022-11
+3220,2022-05-05,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,2733,26-35,Fish,2022-05
+4583,2022-06-23,Walking,73,"","",7768,26-35,Rabbit,2022-06
+4937,2022-08-07,Health,0,Injury,Physical therapy recommended for joint issues,9579,26-35,Hamster,2022-08
+217,2023-06-01,Resting,,"","",9887,26-35,Dog,2023-06
+9922,2022-04-21,Playing,,"","",6556,46-55,Fish,2022-04
+9946,2023-07-12,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9659,26-35,Fish,2023-07
+5823,2023-04-15,Resting,1,"","",1745,36-45,Cat,2023-04
+5940,2022-07-29,Resting,,"","",7893,56-65,Fish,2022-07
+7080,2023-04-21,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9742,66+,Cat,2023-04
+4073,2022-09-15,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5668,46-55,Hamster,2022-09
+986,2023-03-08,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5102,18-25,Hamster,2023-03
+3484,2022-06-16,Health,0,Injury,"Minor surgery performed, recovery monitored",472,36-45,Hamster,2022-06
+8903,2022-10-05,Playing,16,"","",4754,66+,Fish,2022-10
+6963,2022-11-03,Health,0,Annual Checkup,"All clear, healthy diet recommended",1749,56-65,Rabbit,2022-11
+2747,2022-10-30,Walking,5,"","",9401,26-35,Hamster,2022-10
+8710,2022-07-09,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4317,56-65,Dog,2022-07
+3057,2022-10-27,Resting,63,"","",2385,26-35,Hamster,2022-10
+8047,2023-11-09,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4593,26-35,Rabbit,2023-11
+6851,2022-08-21,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4043,56-65,Dog,2022-08
+3885,2023-09-05,Health,0,Dental Cleaning,"Cleaning done, no dental issues",3080,56-65,Cat,2023-09
+9692,2023-04-08,Resting,81,"","",7009,46-55,Cat,2023-04
+9472,2022-04-25,Walking,59,"","",4878,46-55,Cat,2022-04
+601,2023-03-01,Playing,42,"","",321,18-25,Fish,2023-03
+8702,2023-03-25,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,7485,56-65,Dog,2023-03
+601,2023-04-19,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",321,18-25,Fish,2023-04
+8047,2023-12-06,Playing,39,"","",4593,26-35,Rabbit,2023-12
+8697,2022-11-25,Health,0,Injury,"Minor surgery performed, recovery monitored",3061,18-25,Rabbit,2022-11
+7818,2023-12-15,Walking,66,"","",7979,46-55,Hamster,2023-12
+1207,2023-08-04,Health,0,Injury,Physical therapy recommended for joint issues,7087,26-35,Rabbit,2023-08
+7970,2023-01-31,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1419,36-45,Hamster,2023-01
+8746,2023-01-26,Health,0,Annual Checkup,"All clear, healthy diet recommended",5569,66+,Dog,2023-01
+9874,2022-08-16,Playing,,"","",2966,46-55,Fish,2022-08
+3154,2023-03-15,Health,0,Injury,"Sprain identified, rest and limited movement advised",2479,66+,Hamster,2023-03
+1441,2023-11-17,Walking,85,"","",8360,18-25,Hamster,2023-11
+9632,2022-09-17,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4032,36-45,Rabbit,2022-09
+1585,2022-10-12,Resting,9,"","",4135,18-25,Fish,2022-10
+5850,2022-12-01,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7641,46-55,Dog,2022-12
+2429,2022-11-09,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4797,36-45,Dog,2022-11
+239,2023-03-02,Playing,,"","",1625,36-45,Fish,2023-03
+1006,2022-05-09,Health,0,Annual Checkup,"All clear, healthy diet recommended",4000,18-25,Cat,2022-05
+1297,2022-04-05,Playing,21,"","",576,26-35,Fish,2022-04
+8710,2022-07-13,Walking,7,"","",4317,56-65,Dog,2022-07
+3846,2023-02-05,Health,0,Annual Checkup,Diet adjustment recommended for weight management,8609,56-65,Fish,2023-02
+1115,2022-10-28,Playing,,"","",7620,26-35,Rabbit,2022-10
+637,2023-07-07,Health,0,Injury,Physical therapy recommended for joint issues,6918,56-65,Cat,2023-07
+3300,2022-11-30,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",264,66+,Hamster,2022-11
+9706,2023-09-27,Health,0,Injury,"Minor surgery performed, recovery monitored",629,46-55,Rabbit,2023-09
+4073,2023-10-16,Health,0,Dental Cleaning,"Cleaning done, no dental issues",5668,46-55,Hamster,2023-10
+6617,2023-02-07,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3777,36-45,Fish,2023-02
+3530,2023-01-02,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8942,36-45,Hamster,2023-01
+9305,2022-08-17,Resting,32,"","",4495,18-25,Dog,2022-08
+2094,2023-03-06,Walking,,"","",6511,46-55,Cat,2023-03
+4278,2022-10-26,Walking,90,"","",6524,46-55,Cat,2022-10
+3686,2023-12-07,Health,0,Annual Checkup,"All clear, healthy diet recommended",2979,26-35,Rabbit,2023-12
+6939,2022-11-17,Resting,62,"","",3445,46-55,Rabbit,2022-11
+8510,2022-07-07,Walking,22,"","",2392,18-25,Cat,2022-07
+337,2023-04-09,Resting,54,"","",2263,36-45,Cat,2023-04
+8354,2023-02-19,Health,0,Annual Checkup,"All clear, healthy diet recommended",2769,26-35,Fish,2023-02
+9632,2023-02-03,Playing,46,"","",4032,36-45,Rabbit,2023-02
+2882,2022-07-02,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",6343,56-65,Dog,2022-07
+1846,2023-02-05,Health,0,Annual Checkup,"All clear, healthy diet recommended",9741,56-65,Rabbit,2023-02
+1640,2023-09-09,Resting,60,"","",7642,36-45,Hamster,2023-09
+532,2023-07-26,Walking,72,"","",5345,18-25,Fish,2023-07
+337,2023-11-27,Walking,21,"","",2263,36-45,Cat,2023-11
+3884,2023-06-14,Playing,28,"","",6355,66+,Rabbit,2023-06
+6241,2023-04-30,Playing,15,"","",3636,18-25,Hamster,2023-04
+3885,2023-07-05,Walking,37,"","",3080,56-65,Cat,2023-07
+9018,2023-10-30,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5690,46-55,Rabbit,2023-10
+8103,2022-12-12,Health,0,Injury,"Minor surgery performed, recovery monitored",1336,26-35,Fish,2022-12
+5659,2022-07-05,Playing,61,"","",3740,46-55,Cat,2022-07
+5540,2022-08-30,Health,0,Annual Checkup,Diet adjustment recommended for weight management,8158,56-65,Dog,2022-08
+3617,2023-12-22,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3060,66+,Dog,2023-12
+9561,2022-05-05,Resting,36,"","",4850,66+,Fish,2022-05
+585,2023-03-01,Resting,,"","",9685,26-35,Dog,2023-03
+6731,2022-10-22,Health,0,Annual Checkup,"All clear, healthy diet recommended",2075,46-55,Dog,2022-10
+1564,2023-02-02,Resting,40,"","",1621,18-25,Rabbit,2023-02
+4912,2023-10-28,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3425,66+,Dog,2023-10
+3147,2022-06-15,Playing,12,"","",1961,18-25,Dog,2022-06
+337,2023-01-01,Health,0,Annual Checkup,Diet adjustment recommended for weight management,2263,36-45,Cat,2023-01
+9367,2023-02-17,Playing,14,"","",4990,56-65,Hamster,2023-02
+2415,2022-12-28,Health,0,Annual Checkup,"All clear, healthy diet recommended",359,46-55,Rabbit,2022-12
+5468,2022-05-13,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4302,46-55,Fish,2022-05
+6851,2022-07-13,Resting,78,"","",4043,56-65,Dog,2022-07
+5071,2023-08-09,Walking,40,"","",1992,18-25,Fish,2023-08
+3946,2022-10-22,Walking,36,"","",1722,66+,Cat,2022-10
+3035,2023-09-06,Playing,69,"","",5820,66+,Fish,2023-09
+9689,2022-04-15,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7147,46-55,Rabbit,2022-04
+4778,2023-02-24,Resting,15,"","",477,56-65,Cat,2023-02
+3467,2023-04-21,Walking,63,"","",9304,18-25,Fish,2023-04
+6087,2022-07-12,Health,0,Dental Cleaning,"Cleaning done, no dental issues",3196,26-35,Hamster,2022-07
+3750,2023-01-31,Playing,8,"","",9515,26-35,Dog,2023-01
+6617,2023-08-29,Walking,8,"","",3777,36-45,Fish,2023-08
+9367,2023-02-04,Playing,37,"","",4990,56-65,Hamster,2023-02
+7970,2022-06-25,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1419,36-45,Hamster,2022-06
+1735,2023-11-25,Health,0,Annual Checkup,"All clear, healthy diet recommended",8142,56-65,Fish,2023-11
+2630,2022-07-06,Health,0,Annual Checkup,Diet adjustment recommended for weight management,2214,18-25,Cat,2022-07
+7975,2023-09-18,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9672,56-65,Hamster,2023-09
+884,2022-04-01,Walking,79,"","",1349,46-55,Cat,2022-04
+8518,2022-06-13,Walking,83,"","",1912,26-35,Rabbit,2022-06
+9988,2023-06-28,Playing,,"","",5933,56-65,Rabbit,2023-06
+9578,2023-01-14,Health,0,Annual Checkup,Diet adjustment recommended for weight management,2135,46-55,Fish,2023-01
+7022,2022-06-23,Resting,17,"","",7165,56-65,Dog,2022-06
+9163,2023-01-20,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8254,46-55,Hamster,2023-01
+3088,2023-07-18,Walking,4,"","",1339,18-25,Hamster,2023-07
+6467,2022-08-06,Walking,77,"","",7672,26-35,Fish,2022-08
+1370,2022-07-23,Walking,6,"","",3138,18-25,Hamster,2022-07
+8387,2023-05-28,Health,0,Annual Checkup,Diet adjustment recommended for weight management,160,36-45,Cat,2023-05
+850,2023-12-05,Resting,29,"","",3475,26-35,Hamster,2023-12
+741,2023-06-18,Walking,,"","",3823,26-35,Rabbit,2023-06
+8237,2023-11-11,Health,0,Dental Cleaning,"Cleaning done, no dental issues",200,66+,Fish,2023-11
+7331,2023-09-25,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7557,36-45,Cat,2023-09
+8702,2022-09-17,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,7485,56-65,Dog,2022-09
+6315,2023-10-22,Playing,,"","",7039,56-65,Dog,2023-10
+4995,2022-11-02,Playing,,"","",5392,36-45,Rabbit,2022-11
+5445,2022-06-28,Health,0,Injury,"Minor surgery performed, recovery monitored",8793,56-65,Hamster,2022-06
+6103,2023-07-16,Playing,9,"","",3723,66+,Rabbit,2023-07
+8804,2022-05-08,Playing,20,"","",3846,46-55,Fish,2022-05
+4643,2023-09-08,Resting,,"","",1806,36-45,Hamster,2023-09
+6725,2022-07-24,Resting,,"","",5568,56-65,Dog,2022-07
+7692,2022-09-14,Walking,85,"","",6053,36-45,Hamster,2022-09
+1006,2023-09-17,Health,0,Annual Checkup,Diet adjustment recommended for weight management,4000,18-25,Cat,2023-09
+9230,2023-03-28,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9136,46-55,Rabbit,2023-03
+309,2022-10-31,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4240,66+,Rabbit,2022-10
+7515,2022-09-25,Playing,9,"","",7330,18-25,Rabbit,2022-09
+9018,2023-07-14,Resting,86,"","",5690,46-55,Rabbit,2023-07
+4438,2022-04-13,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",6845,56-65,Cat,2022-04
+9481,2022-12-28,Playing,90,"","",351,36-45,Fish,2022-12
+9223,2022-12-22,Health,0,Annual Checkup,Diet adjustment recommended for weight management,8116,56-65,Cat,2022-12
+694,2022-07-30,Health,0,Injury,"Sprain identified, rest and limited movement advised",6526,26-35,Hamster,2022-07
+8226,2023-09-14,Resting,,"","",2391,56-65,Rabbit,2023-09
+8412,2023-10-16,Health,0,Annual Checkup,"All clear, healthy diet recommended",4116,18-25,Hamster,2023-10
+7778,2022-04-18,Health,0,Annual Checkup,Diet adjustment recommended for weight management,4180,46-55,Rabbit,2022-04
+8412,2023-03-14,Resting,84,"","",4116,18-25,Hamster,2023-03
+3100,2023-06-17,Resting,3,"","",329,66+,Dog,2023-06
+9136,2022-04-15,Health,0,Annual Checkup,"All clear, healthy diet recommended",3553,18-25,Dog,2022-04
+9946,2023-10-09,Resting,,"","",9659,26-35,Fish,2023-10
+6963,2023-02-22,Walking,,"","",1749,56-65,Rabbit,2023-02
+6901,2022-11-10,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,5150,46-55,Dog,2022-11
+217,2023-06-12,Health,0,Annual Checkup,"All clear, healthy diet recommended",9887,26-35,Dog,2023-06
+579,2023-12-26,Playing,,"","",7956,56-65,Dog,2023-12
+538,2022-05-26,Health,0,Injury,"Sprain identified, rest and limited movement advised",5293,46-55,Fish,2022-05
+7956,2023-08-22,Health,0,Injury,"Sprain identified, rest and limited movement advised",725,66+,Hamster,2023-08
+6919,2023-02-03,Walking,,"","",499,36-45,Hamster,2023-02
+5968,2023-02-13,Health,0,Dental Cleaning,"Cleaning done, no dental issues",3794,46-55,Fish,2023-02
+4947,2023-04-03,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",9337,56-65,Rabbit,2023-04
+6919,2022-09-17,Playing,90,"","",499,36-45,Hamster,2022-09
+8070,2023-01-04,Playing,,"","",4144,36-45,Fish,2023-01
+6838,2023-07-09,Health,0,Annual Checkup,"All clear, healthy diet recommended",487,36-45,Rabbit,2023-07
+3040,2022-09-07,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5637,18-25,Rabbit,2022-09
+7212,2023-04-21,Resting,26,"","",479,18-25,Cat,2023-04
+5555,2023-12-15,Playing,55,"","",768,18-25,Cat,2023-12
+1292,2023-10-20,Health,0,Annual Checkup,"All clear, healthy diet recommended",5397,18-25,Dog,2023-10
+3846,2023-12-01,Resting,19,"","",8609,56-65,Fish,2023-12
+5699,2023-04-26,Resting,27,"","",4776,26-35,Fish,2023-04
+1060,2023-12-02,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,1001,56-65,Rabbit,2023-12
+6467,2023-01-29,Resting,1,"","",7672,26-35,Fish,2023-01
+6609,2022-12-20,Playing,28,"","",8044,36-45,Cat,2022-12
+585,2022-05-27,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",9685,26-35,Dog,2022-05
+7680,2022-04-09,Playing,55,"","",129,66+,Rabbit,2022-04
+8208,2023-04-06,Walking,,"","",7211,36-45,Fish,2023-04
+3988,2023-12-29,Playing,33,"","",9242,56-65,Cat,2023-12
+7331,2023-07-21,Resting,70,"","",7557,36-45,Cat,2023-07
+5071,2022-08-15,Walking,72,"","",1992,18-25,Fish,2022-08
+1382,2022-11-18,Playing,40,"","",7965,36-45,Dog,2022-11
+9632,2022-06-13,Walking,5,"","",4032,36-45,Rabbit,2022-06
+7692,2023-11-13,Playing,48,"","",6053,36-45,Hamster,2023-11
+4777,2022-08-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",2269,36-45,Rabbit,2022-08
+1057,2022-08-29,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6689,46-55,Fish,2022-08
+379,2022-05-15,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,1444,36-45,Cat,2022-05
+2840,2023-04-15,Playing,8,"","",8267,46-55,Fish,2023-04
+3530,2022-04-18,Walking,5,"","",8942,36-45,Hamster,2022-04
+503,2022-10-16,Walking,,"","",6083,66+,Fish,2022-10
+556,2023-04-04,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,3870,26-35,Fish,2023-04
+6141,2023-08-16,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7658,56-65,Dog,2023-08
+4912,2023-06-03,Resting,33,"","",3425,66+,Dog,2023-06
+9578,2023-07-31,Playing,79,"","",2135,46-55,Fish,2023-07
+6896,2022-05-25,Resting,89,"","",7961,56-65,Dog,2022-05
+6205,2023-07-08,Health,0,Annual Checkup,Diet adjustment recommended for weight management,1937,56-65,Rabbit,2023-07
+1441,2023-12-09,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8360,18-25,Hamster,2023-12
+9578,2023-09-29,Health,0,Annual Checkup,"All clear, healthy diet recommended",2135,46-55,Fish,2023-09
+7393,2022-11-26,Health,0,Injury,"Minor surgery performed, recovery monitored",7018,18-25,Dog,2022-11
+3228,2022-07-17,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8432,66+,Fish,2022-07
+9244,2023-04-29,Resting,26,"","",9723,66+,Rabbit,2023-04
+3884,2022-04-02,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,6355,66+,Rabbit,2022-04
+6315,2023-11-30,Resting,,"","",7039,56-65,Dog,2023-11
+5622,2023-09-20,Playing,10,"","",3739,66+,Cat,2023-09
+9930,2022-09-13,Resting,46,"","",7016,18-25,Dog,2022-09
+6838,2022-06-20,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",487,36-45,Rabbit,2022-06
+5632,2022-04-28,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6055,26-35,Cat,2022-04
+8353,2023-08-18,Health,0,Annual Checkup,"All clear, healthy diet recommended",94,18-25,Fish,2023-08
+8586,2022-08-25,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9364,66+,Hamster,2022-08
+8237,2022-10-27,Walking,49,"","",200,66+,Fish,2022-10
+2898,2022-08-19,Health,0,Annual Checkup,"All clear, healthy diet recommended",8599,46-55,Cat,2022-08
+2794,2022-06-22,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9306,66+,Dog,2022-06
+2729,2023-04-09,Health,0,Annual Checkup,Diet adjustment recommended for weight management,26,46-55,Rabbit,2023-04
+4778,2023-10-06,Health,0,Annual Checkup,"All clear, healthy diet recommended",477,56-65,Cat,2023-10
+9472,2022-09-05,Health,0,Injury,"Minor surgery performed, recovery monitored",4878,46-55,Cat,2022-09
+9558,2023-03-05,Health,0,Dental Cleaning,"Cleaning done, no dental issues",258,46-55,Rabbit,2023-03
+2060,2023-12-11,Walking,23,"","",9346,46-55,Hamster,2023-12
+7030,2022-10-28,Playing,49,"","",5761,26-35,Rabbit,2022-10
+5540,2023-01-11,Health,0,Injury,Physical therapy recommended for joint issues,8158,56-65,Dog,2023-01
+9221,2023-11-05,Walking,54,"","",5930,36-45,Fish,2023-11
+1902,2022-08-31,Walking,,"","",3039,36-45,Dog,2022-08
+9712,2023-10-25,Resting,24,"","",3539,36-45,Cat,2023-10
+6480,2023-10-27,Walking,5,"","",6899,66+,Dog,2023-10
+4098,2023-11-24,Playing,36,"","",2969,66+,Rabbit,2023-11
+696,2022-12-27,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1036,26-35,Rabbit,2022-12
+8989,2023-07-01,Resting,52,"","",3803,36-45,Dog,2023-07
+3727,2023-10-13,Playing,56,"","",8154,66+,Dog,2023-10
+3040,2022-05-02,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,5637,18-25,Rabbit,2022-05
+5334,2023-11-19,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9015,26-35,Cat,2023-11
+3686,2023-07-11,Health,0,Injury,"Minor surgery performed, recovery monitored",2979,26-35,Rabbit,2023-07
+2528,2022-09-24,Walking,13,"","",667,26-35,Fish,2022-09
+4307,2023-05-26,Walking,73,"","",2654,56-65,Hamster,2023-05
+209,2022-09-11,Resting,20,"","",9137,56-65,Fish,2022-09
+9684,2022-12-09,Health,0,Dental Cleaning,"Cleaning done, no dental issues",560,18-25,Hamster,2022-12
+1345,2023-06-17,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9512,18-25,Fish,2023-06
+7393,2023-03-27,Playing,82,"","",7018,18-25,Dog,2023-03
+7296,2023-12-07,Health,0,Annual Checkup,"All clear, healthy diet recommended",4562,26-35,Dog,2023-12
+5457,2022-09-10,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",9437,18-25,Fish,2022-09
+215,2022-12-14,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8458,26-35,Dog,2022-12
+5919,2023-04-04,Resting,,"","",8009,26-35,Fish,2023-04
+309,2023-05-02,Health,0,Annual Checkup,Diet adjustment recommended for weight management,4240,66+,Rabbit,2023-05
+7757,2023-06-09,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",1457,18-25,Hamster,2023-06
+3612,2023-09-01,Walking,16,"","",787,36-45,Fish,2023-09
+7190,2022-08-29,Health,0,Injury,Physical therapy recommended for joint issues,2160,36-45,Hamster,2022-08
+2287,2022-09-07,Walking,88,"","",7057,66+,Rabbit,2022-09
+6939,2023-04-04,Resting,62,"","",3445,46-55,Rabbit,2023-04
+239,2023-09-17,Health,0,Annual Checkup,Diet adjustment recommended for weight management,1625,36-45,Fish,2023-09
+751,2023-10-29,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7703,46-55,Fish,2023-10
+6919,2022-08-26,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,499,36-45,Hamster,2022-08
+7757,2023-10-22,Resting,8,"","",1457,18-25,Hamster,2023-10
+3846,2023-07-06,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8609,56-65,Fish,2023-07
+9721,2023-05-15,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4991,26-35,Rabbit,2023-05
+2144,2022-10-31,Walking,29,"","",6471,46-55,Fish,2022-10
+3223,2023-09-18,Walking,3,"","",7880,26-35,Cat,2023-09
+1057,2023-03-20,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6689,46-55,Fish,2023-03
+774,2023-12-24,Health,0,Annual Checkup,Diet adjustment recommended for weight management,8152,26-35,Dog,2023-12
+1949,2023-02-07,Playing,79,"","",8827,46-55,Rabbit,2023-02
+2144,2023-10-23,Resting,,"","",6471,46-55,Fish,2023-10
+9900,2023-02-02,Health,0,Injury,"Minor surgery performed, recovery monitored",1102,36-45,Dog,2023-02
+8840,2022-10-03,Playing,,"","",3588,18-25,Fish,2022-10
+4778,2022-05-11,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",477,56-65,Cat,2022-05
+8226,2022-06-09,Resting,21,"","",2391,56-65,Rabbit,2022-06
+7642,2023-05-10,Playing,81,"","",8967,26-35,Rabbit,2023-05
+3132,2022-10-02,Resting,35,"","",3504,66+,Rabbit,2022-10
+8840,2023-01-11,Walking,56,"","",3588,18-25,Fish,2023-01
+8349,2023-12-08,Playing,80,"","",6591,26-35,Rabbit,2023-12
+2794,2022-04-29,Walking,56,"","",9306,66+,Dog,2022-04
+5643,2023-07-23,Health,0,Injury,"Sprain identified, rest and limited movement advised",3428,56-65,Rabbit,2023-07
+3088,2022-10-15,Playing,69,"","",1339,18-25,Hamster,2022-10
+3444,2023-01-22,Health,0,Injury,"Sprain identified, rest and limited movement advised",9116,66+,Rabbit,2023-01
+3291,2023-04-17,Walking,29,"","",9548,56-65,Fish,2023-04
+2441,2023-07-17,Playing,4,"","",2238,18-25,Rabbit,2023-07
+2729,2023-06-07,Health,0,Annual Checkup,Diet adjustment recommended for weight management,26,46-55,Rabbit,2023-06
+5243,2023-08-16,Playing,18,"","",3974,46-55,Cat,2023-08
+9445,2023-01-19,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3664,18-25,Dog,2023-01
+7296,2023-03-30,Walking,71,"","",4562,26-35,Dog,2023-03
+1322,2022-05-23,Health,0,Injury,"Minor surgery performed, recovery monitored",1748,66+,Fish,2022-05
+9721,2023-07-04,Health,0,Annual Checkup,"All clear, healthy diet recommended",4991,26-35,Rabbit,2023-07
+4480,2022-05-02,Playing,22,"","",9044,46-55,Hamster,2022-05
+6963,2023-06-12,Walking,33,"","",1749,56-65,Rabbit,2023-06
+6194,2022-10-18,Walking,65,"","",6231,46-55,Cat,2022-10
+4278,2022-12-24,Playing,57,"","",6524,46-55,Cat,2022-12
+8149,2022-12-01,Playing,42,"","",7913,66+,Dog,2022-12
+8244,2023-11-16,Playing,,"","",5743,66+,Fish,2023-11
+831,2022-11-15,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5416,46-55,Cat,2022-11
+2448,2023-01-14,Health,0,Injury,"Minor surgery performed, recovery monitored",5266,26-35,Hamster,2023-01
+7833,2022-10-17,Playing,18,"","",3276,46-55,Fish,2022-10
+3228,2022-04-03,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8432,66+,Fish,2022-04
+3300,2023-03-30,Health,0,Injury,Physical therapy recommended for joint issues,264,66+,Hamster,2023-03
+2058,2023-12-21,Playing,79,"","",4954,36-45,Fish,2023-12
+2735,2023-10-25,Health,0,Annual Checkup,"All clear, healthy diet recommended",2607,66+,Hamster,2023-10
+3723,2022-10-18,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",480,56-65,Dog,2022-10
+4539,2023-04-17,Walking,,"","",4531,18-25,Dog,2023-04
+8572,2023-09-05,Health,0,Annual Checkup,"All clear, healthy diet recommended",496,66+,Rabbit,2023-09
+9008,2023-04-24,Resting,23,"","",1835,36-45,Rabbit,2023-04
+6480,2022-12-28,Walking,28,"","",6899,66+,Dog,2022-12
+1949,2023-01-04,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8827,46-55,Rabbit,2023-01
+8349,2023-07-31,Walking,50,"","",6591,26-35,Rabbit,2023-07
+7799,2023-02-17,Health,0,Dental Cleaning,"Cleaning done, no dental issues",5114,36-45,Fish,2023-02
+8691,2023-06-15,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3447,26-35,Fish,2023-06
+8903,2022-08-01,Health,0,Dental Cleaning,"Cleaning done, no dental issues",4754,66+,Fish,2022-08
+217,2022-12-10,Health,0,Injury,"Sprain identified, rest and limited movement advised",9887,26-35,Dog,2022-12
+7113,2023-02-02,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8490,36-45,Rabbit,2023-02
+6939,2023-12-12,Health,0,Dental Cleaning,"Cleaning done, no dental issues",3445,46-55,Rabbit,2023-12
+8226,2022-11-06,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",2391,56-65,Rabbit,2022-11
+2350,2023-11-12,Resting,,"","",9638,36-45,Rabbit,2023-11
+2898,2023-11-15,Walking,,"","",8599,46-55,Cat,2023-11
+9124,2023-01-02,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6166,26-35,Rabbit,2023-01
+8418,2022-07-20,Resting,41,"","",3390,56-65,Rabbit,2022-07
+7833,2022-11-03,Health,0,Annual Checkup,"All clear, healthy diet recommended",3276,46-55,Fish,2022-11
+4777,2022-09-22,Health,0,Injury,"Sprain identified, rest and limited movement advised",2269,36-45,Rabbit,2022-09
+2262,2022-05-13,Resting,,"","",1208,26-35,Rabbit,2022-05
+1292,2023-06-08,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5397,18-25,Dog,2023-06
+5457,2023-11-27,Resting,61,"","",9437,18-25,Fish,2023-11
+5925,2022-04-25,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8475,56-65,Hamster,2022-04
+1173,2023-02-14,Health,0,Annual Checkup,Diet adjustment recommended for weight management,1251,56-65,Cat,2023-02
+8418,2022-12-14,Health,0,Annual Checkup,"All clear, healthy diet recommended",3390,56-65,Rabbit,2022-12
+3484,2023-06-27,Health,0,Dental Cleaning,"Cleaning done, no dental issues",472,36-45,Hamster,2023-06
+5334,2023-02-14,Resting,45,"","",9015,26-35,Cat,2023-02
+5017,2023-03-04,Health,0,Injury,Physical therapy recommended for joint issues,7785,36-45,Cat,2023-03
+627,2023-02-15,Resting,45,"","",5611,46-55,Fish,2023-02
+6816,2022-05-09,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5909,26-35,Fish,2022-05
+8989,2022-05-25,Walking,,"","",3803,36-45,Dog,2022-05
+8149,2023-10-22,Playing,44,"","",7913,66+,Dog,2023-10
+3520,2023-04-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4834,36-45,Hamster,2023-04
+473,2022-06-22,Health,0,Annual Checkup,Diet adjustment recommended for weight management,1387,56-65,Hamster,2022-06
+9230,2022-12-30,Playing,,"","",9136,46-55,Rabbit,2022-12
+3530,2023-10-27,Resting,57,"","",8942,36-45,Hamster,2023-10
+1902,2023-03-05,Health,0,Annual Checkup,"All clear, healthy diet recommended",3039,36-45,Dog,2023-03
+2590,2023-12-14,Health,0,Annual Checkup,"All clear, healthy diet recommended",1365,26-35,Dog,2023-12
+5622,2023-10-30,Resting,48,"","",3739,66+,Cat,2023-10
+7757,2022-08-31,Resting,46,"","",1457,18-25,Hamster,2022-08
+1635,2023-04-29,Resting,13,"","",674,26-35,Hamster,2023-04
+9187,2022-07-18,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8368,66+,Rabbit,2022-07
+3467,2022-09-19,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9304,18-25,Fish,2022-09
+6338,2022-08-22,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4094,46-55,Fish,2022-08
+1417,2023-09-02,Resting,43,"","",1834,46-55,Rabbit,2023-09
+9187,2022-09-07,Playing,,"","",8368,66+,Rabbit,2022-09
+5468,2022-11-08,Resting,31,"","",4302,46-55,Fish,2022-11
+249,2022-08-29,Resting,,"","",4535,56-65,Dog,2022-08
+2837,2023-07-13,Health,0,Annual Checkup,Diet adjustment recommended for weight management,9708,56-65,Fish,2023-07
+7799,2023-02-02,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,5114,36-45,Fish,2023-02
+7281,2022-11-16,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3985,18-25,Fish,2022-11
+4583,2022-07-30,Health,0,Annual Checkup,"All clear, healthy diet recommended",7768,26-35,Rabbit,2022-07
+516,2023-02-13,Health,0,Injury,"Sprain identified, rest and limited movement advised",7142,66+,Rabbit,2023-02
+9030,2023-09-03,Health,0,Injury,"Minor surgery performed, recovery monitored",4500,18-25,Hamster,2023-09
+9452,2023-09-20,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,4154,18-25,Rabbit,2023-09
+4768,2023-10-10,Health,0,Annual Checkup,Diet adjustment recommended for weight management,254,56-65,Dog,2023-10
+6482,2023-01-22,Walking,78,"","",4092,46-55,Fish,2023-01
+4278,2023-01-15,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6524,46-55,Cat,2023-01
+7818,2023-05-18,Health,0,Annual Checkup,Diet adjustment recommended for weight management,7979,46-55,Hamster,2023-05
+5919,2023-06-17,Health,0,Dental Cleaning,"Cleaning done, no dental issues",8009,26-35,Fish,2023-06
+4480,2023-03-13,Playing,1,"","",9044,46-55,Hamster,2023-03
+7642,2023-10-09,Resting,77,"","",8967,26-35,Rabbit,2023-10
+5747,2023-05-07,Health,0,Injury,"Minor surgery performed, recovery monitored",8562,36-45,Dog,2023-05
+2094,2023-04-01,Walking,25,"","",6511,46-55,Cat,2023-04
+9319,2022-04-05,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4311,36-45,Hamster,2022-04
+2289,2023-11-07,Resting,25,"","",4315,66+,Fish,2023-11
+3017,2023-02-22,Resting,54,"","",4534,46-55,Hamster,2023-02
+8070,2022-11-04,Walking,42,"","",4144,36-45,Fish,2022-11
+3686,2022-12-20,Resting,,"","",2979,26-35,Rabbit,2022-12
+6482,2022-04-08,Health,0,Annual Checkup,"All clear, healthy diet recommended",4092,46-55,Fish,2022-04
+4912,2023-10-20,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,3425,66+,Dog,2023-10
+532,2022-07-30,Health,0,Injury,"Minor surgery performed, recovery monitored",5345,18-25,Fish,2022-07
+1678,2023-02-03,Resting,,"","",1146,36-45,Dog,2023-02
+4690,2022-11-06,Playing,79,"","",1279,66+,Dog,2022-11
+4778,2022-10-12,Resting,18,"","",477,56-65,Cat,2022-10
+2144,2023-08-30,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6471,46-55,Fish,2023-08
+6032,2023-11-23,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",853,26-35,Cat,2023-11
+2513,2023-03-18,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",27,46-55,Dog,2023-03
+6332,2023-12-19,Resting,,"","",2456,26-35,Rabbit,2023-12
+2429,2022-05-02,Playing,,"","",4797,36-45,Dog,2022-05
+6824,2023-03-20,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,922,56-65,Cat,2023-03
+741,2023-01-10,Playing,36,"","",3823,26-35,Rabbit,2023-01
+5968,2022-10-12,Walking,,"","",3794,46-55,Fish,2022-10
+2805,2023-08-02,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6327,36-45,Rabbit,2023-08
+3088,2022-06-23,Walking,8,"","",1339,18-25,Hamster,2022-06
+236,2022-05-04,Resting,39,"","",6300,18-25,Fish,2022-05
+7936,2023-08-22,Resting,71,"","",3641,36-45,Fish,2023-08
+696,2023-05-08,Health,0,Dental Cleaning,"Cleaning done, no dental issues",1036,26-35,Rabbit,2023-05
+5863,2023-03-13,Walking,,"","",6864,36-45,Dog,2023-03
+4074,2023-03-25,Health,0,Injury,"Minor surgery performed, recovery monitored",2224,36-45,Cat,2023-03
+249,2022-10-24,Walking,62,"","",4535,56-65,Dog,2022-10
+4734,2023-11-03,Health,0,Dental Cleaning,"Cleaning done, no dental issues",9477,66+,Rabbit,2023-11
+8840,2023-07-22,Health,0,Annual Checkup,Diet adjustment recommended for weight management,3588,18-25,Fish,2023-07
+7757,2022-05-17,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,1457,18-25,Hamster,2022-05
+6725,2023-06-24,Health,0,Injury,"Sprain identified, rest and limited movement advised",5568,56-65,Dog,2023-06
+4480,2023-02-10,Resting,79,"","",9044,46-55,Hamster,2023-02
+6376,2022-04-04,Health,0,Injury,"Sprain identified, rest and limited movement advised",1407,56-65,Rabbit,2022-04
+637,2023-02-15,Health,0,Injury,"Minor surgery performed, recovery monitored",6918,56-65,Cat,2023-02
+9305,2022-11-04,Resting,,"","",4495,18-25,Dog,2022-11
+694,2022-07-21,Walking,11,"","",6526,26-35,Hamster,2022-07
+6740,2023-03-25,Playing,63,"","",797,46-55,Cat,2023-03
+6897,2022-08-11,Health,0,Annual Checkup,"All clear, healthy diet recommended",9232,36-45,Cat,2022-08
+3856,2022-10-08,Resting,14,"","",7968,66+,Hamster,2022-10
+7936,2023-01-19,Walking,52,"","",3641,36-45,Fish,2023-01
+5940,2023-03-06,Resting,72,"","",7893,56-65,Fish,2023-03
+5107,2022-08-13,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3456,36-45,Fish,2022-08
+3304,2023-06-25,Health,0,Injury,"Minor surgery performed, recovery monitored",8128,46-55,Fish,2023-06
+8342,2023-07-26,Playing,,"","",6252,36-45,Rabbit,2023-07
+6896,2022-07-26,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",7961,56-65,Dog,2022-07
+4045,2023-10-26,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6103,46-55,Dog,2023-10
+8244,2023-09-23,Resting,20,"","",5743,66+,Fish,2023-09
+1057,2023-02-23,Health,0,Injury,Physical therapy recommended for joint issues,6689,46-55,Fish,2023-02
+2869,2023-10-21,Health,0,Injury,"Sprain identified, rest and limited movement advised",4983,36-45,Cat,2023-10
+9191,2022-07-10,Resting,44,"","",2639,66+,Hamster,2022-07
+2448,2022-10-23,Walking,,"","",5266,26-35,Hamster,2022-10
+500,2022-10-02,Resting,45,"","",9128,26-35,Cat,2022-10
+2893,2023-06-08,Resting,22,"","",8726,66+,Dog,2023-06
+4278,2023-11-16,Playing,,"","",6524,46-55,Cat,2023-11
+3750,2023-02-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",9515,26-35,Dog,2023-02
+5984,2022-05-17,Playing,66,"","",2527,18-25,Fish,2022-05
+8226,2022-08-20,Health,0,Injury,Physical therapy recommended for joint issues,2391,56-65,Rabbit,2022-08
+2415,2022-10-05,Health,0,Dental Cleaning,"Cleaning done, no dental issues",359,46-55,Rabbit,2022-10
+1286,2022-12-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3923,36-45,Fish,2022-12
+3735,2022-08-11,Resting,87,"","",4333,26-35,Cat,2022-08
+4045,2023-11-18,Walking,75,"","",6103,46-55,Dog,2023-11
+8746,2023-03-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5569,66+,Dog,2023-03
+585,2023-10-29,Walking,4,"","",9685,26-35,Dog,2023-10
+2840,2023-05-24,Health,0,Injury,"Minor surgery performed, recovery monitored",8267,46-55,Fish,2023-05
+9223,2023-09-26,Resting,57,"","",8116,56-65,Cat,2023-09
+627,2023-09-17,Walking,,"","",5611,46-55,Fish,2023-09
+6620,2022-10-14,Walking,72,"","",9788,46-55,Hamster,2022-10
+306,2022-12-03,Playing,57,"","",9972,66+,Rabbit,2022-12
+5747,2023-12-27,Resting,9,"","",8562,36-45,Dog,2023-12
+3587,2022-11-11,Resting,87,"","",7214,26-35,Hamster,2022-11
+1370,2022-06-13,Health,0,Injury,"Sprain identified, rest and limited movement advised",3138,18-25,Hamster,2022-06
+4074,2023-08-10,Health,0,Injury,"Sprain identified, rest and limited movement advised",2224,36-45,Cat,2023-08
+6816,2023-11-02,Health,0,Annual Checkup,Diet adjustment recommended for weight management,5909,26-35,Fish,2023-11
+7825,2022-10-09,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6060,56-65,Dog,2022-10
+5630,2022-06-28,Resting,8,"","",5976,36-45,Dog,2022-06
+3605,2022-08-09,Health,0,Injury,Physical therapy recommended for joint issues,4554,66+,Cat,2022-08
+7716,2022-05-17,Playing,8,"","",342,66+,Cat,2022-05
+7818,2023-10-10,Playing,78,"","",7979,46-55,Hamster,2023-10
+2893,2023-12-14,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",8726,66+,Dog,2023-12
+9695,2023-02-06,Health,0,Injury,"Minor surgery performed, recovery monitored",6402,66+,Fish,2023-02
+7833,2023-05-28,Playing,,"","",3276,46-55,Fish,2023-05
+5198,2023-03-14,Resting,57,"","",2027,36-45,Hamster,2023-03
+5406,2022-10-12,Playing,79,"","",9906,66+,Fish,2022-10
+3100,2022-08-25,Health,0,Dental Cleaning,"Cleaning done, no dental issues",329,66+,Dog,2022-08
+5037,2022-07-10,Health,0,Annual Checkup,Diet adjustment recommended for weight management,119,26-35,Fish,2022-07
+1207,2023-07-04,Playing,39,"","",7087,26-35,Rabbit,2023-07
+1345,2022-11-13,Resting,6,"","",9512,18-25,Fish,2022-11
+5578,2023-11-23,Walking,4,"","",5887,18-25,Cat,2023-11
+1060,2022-04-09,Health,0,Injury,"Minor surgery performed, recovery monitored",1001,56-65,Rabbit,2022-04
+4768,2022-12-01,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,254,56-65,Dog,2022-12
+5017,2023-09-20,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7785,36-45,Cat,2023-09
+1888,2022-11-27,Health,0,Annual Checkup,Diet adjustment recommended for weight management,360,36-45,Fish,2022-11
+1564,2023-05-10,Walking,,"","",1621,18-25,Rabbit,2023-05
+2869,2023-04-30,Playing,,"","",4983,36-45,Cat,2023-04
+2882,2023-12-17,Playing,75,"","",6343,56-65,Dog,2023-12
+8993,2022-07-20,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",1424,66+,Cat,2022-07
+1888,2023-06-01,Resting,90,"","",360,36-45,Fish,2023-06
+5630,2023-06-12,Health,0,Injury,"Minor surgery performed, recovery monitored",5976,36-45,Dog,2023-06
+7144,2022-06-17,Playing,74,"","",8470,56-65,Rabbit,2022-06
+3026,2022-04-09,Health,0,Injury,Physical therapy recommended for joint issues,2037,66+,Rabbit,2022-04
+8804,2022-06-02,Health,0,Annual Checkup,"All clear, healthy diet recommended",3846,46-55,Fish,2022-06
+5334,2022-07-11,Walking,,"","",9015,26-35,Cat,2022-07
+5693,2022-07-17,Playing,74,"","",4597,18-25,Fish,2022-07
+4937,2022-08-24,Walking,51,"","",9579,26-35,Hamster,2022-08
+2755,2023-05-21,Health,0,Injury,Physical therapy recommended for joint issues,310,18-25,Rabbit,2023-05
+1906,2022-06-27,Walking,,"","",4680,18-25,Rabbit,2022-06
+1925,2022-06-25,Walking,54,"","",2797,46-55,Dog,2022-06
+696,2023-11-30,Resting,70,"","",1036,26-35,Rabbit,2023-11
+9581,2022-04-07,Health,0,Dental Cleaning,"Cleaning done, no dental issues",6128,66+,Rabbit,2022-04
+9445,2022-07-06,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3664,18-25,Dog,2022-07
+3605,2022-07-03,Walking,6,"","",4554,66+,Cat,2022-07
+6534,2023-10-01,Health,0,Injury,Physical therapy recommended for joint issues,2761,26-35,Cat,2023-10
+5984,2022-04-27,Health,0,Ear Infection,Medication and follow-up in 2 weeks for infection,2527,18-25,Fish,2022-04
+8349,2023-03-15,Resting,10,"","",6591,26-35,Rabbit,2023-03
+5925,2023-10-21,Resting,34,"","",8475,56-65,Hamster,2023-10
+4690,2023-11-29,Health,0,Annual Checkup,Diet adjustment recommended for weight management,1279,66+,Dog,2023-11
+556,2023-11-03,Walking,34,"","",3870,26-35,Fish,2023-11
+5975,2022-04-19,Playing,32,"","",5818,18-25,Cat,2022-04
+2429,2023-12-24,Resting,9,"","",4797,36-45,Dog,2023-12
+8804,2022-09-07,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",3846,46-55,Fish,2022-09
+427,2023-12-20,Walking,41,"","",6043,66+,Rabbit,2023-12
+8804,2023-05-31,Playing,,"","",3846,46-55,Fish,2023-05
+9684,2022-07-29,Health,0,Dental Cleaning,"Cleaning done, no dental issues",560,18-25,Hamster,2022-07
+5037,2022-12-22,Health,0,Dental Cleaning,"Cleaning done, no dental issues",119,26-35,Fish,2022-12
+3484,2023-06-23,Health,0,Annual Checkup,Diet adjustment recommended for weight management,472,36-45,Hamster,2023-06
+7706,2023-11-05,Health,0,Dental Cleaning,"Cleaning done, no dental issues",592,56-65,Hamster,2023-11
+6467,2023-10-18,Health,0,Injury,"Sprain identified, rest and limited movement advised",7672,26-35,Fish,2023-10
+6102,2022-09-24,Walking,28,"","",1403,46-55,Hamster,2022-09
+3946,2022-05-11,Walking,80,"","",1722,66+,Cat,2022-05
+9218,2023-06-01,Health,0,Annual Checkup,"All clear, healthy diet recommended",2552,26-35,Fish,2023-06
+5017,2023-08-25,Health,0,Dental Cleaning,"Cleaning done, no dental issues",7785,36-45,Cat,2023-08
+8572,2023-07-23,Health,0,Annual Checkup,"All clear, healthy diet recommended",496,66+,Rabbit,2023-07
+6897,2023-08-02,Walking,49,"","",9232,36-45,Cat,2023-08
+2783,2023-05-15,Resting,64,"","",7419,26-35,Rabbit,2023-05
+9578,2023-08-30,Playing,29,"","",2135,46-55,Fish,2023-08
+2898,2022-10-06,Walking,,"","",8599,46-55,Cat,2022-10
+2726,2023-07-15,Health,0,Annual Checkup,Diet adjustment recommended for weight management,6618,56-65,Fish,2023-07
+5345,2022-11-17,Playing,89,"","",4517,66+,Cat,2022-11
+1322,2022-06-15,Health,0,Injury,"Sprain identified, rest and limited movement advised",1748,66+,Fish,2022-06
+8387,2023-09-14,Health,0,Annual Checkup,"All clear, healthy diet recommended",160,36-45,Cat,2023-09
+3224,2022-10-23,Playing,,"","",5059,36-45,Cat,2022-10
+309,2023-06-09,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",4240,66+,Rabbit,2023-06
+997,2023-04-21,Resting,11,"","",7886,26-35,Hamster,2023-04
+8789,2023-10-25,Health,0,Annual Checkup,"All clear, healthy diet recommended",6619,18-25,Rabbit,2023-10
+9960,2023-07-25,Health,0,Annual Checkup,Diet adjustment recommended for weight management,858,18-25,Cat,2023-07
+2881,2022-12-10,Health,0,Annual Checkup,Diet adjustment recommended for weight management,195,26-35,Fish,2022-12
+7972,2022-05-24,Walking,12,"","",5338,56-65,Hamster,2022-05
+8710,2023-03-24,Health,0,Annual Checkup,Diet adjustment recommended for weight management,4317,56-65,Dog,2023-03
+9960,2022-07-22,Health,0,Dental Cleaning,"Cleaning done, no dental issues",858,18-25,Cat,2022-07
+2058,2022-10-31,Resting,,"","",4954,36-45,Fish,2022-10
+7972,2022-11-18,Health,0,Annual Checkup,"Vaccination completed, next due in 1 year",5338,56-65,Hamster,2022-11
+8877,2023-01-10,Resting,2,"","",9853,36-45,Cat,2023-01
